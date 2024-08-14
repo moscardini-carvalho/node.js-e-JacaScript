@@ -4,9 +4,12 @@
 
  <h1>Imagens</h1>
 
- Aparição na página da web:
+### Aparição na página da web:
  
  ![página web](https://github.com/user-attachments/assets/dff06859-e9d6-43f1-9da3-86fda67f4b31)
 
-Código do servidor:
 
+
+### Código do servidor:
+
+![código ](https://github.com/user-attachments/assets/fe0108af-54fa-4f29-9961-7d4bfdb349f9)
