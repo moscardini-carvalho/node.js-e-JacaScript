@@ -1,4 +1,4 @@
-# ![badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) Exercícios de Node.JS e JavaScript ![badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+# ![badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) Exercícios de Node.JS
 
 Este repositório básico é um repositório onde posto as resoluções de alguns exercícios do curso em que estou fazendo;
 
